@@ -1,6 +1,6 @@
 # INSERINDO, REMOVENDO, ALTERANDO E DELETANDO usando DAO
 
-### Operações de persistência de dados que permite separar regras de negócio das regras de acesso a banco de dados. Criação, Leitura, Exclusão, Atualização usando Data Access Object
+### Operações de persistência de dados que permite separar regras de negócio das regras de acesso a banco de dados. Criação, Leitura, Exclusão, Atualização utílizando Data Access Object
 
 ### :pushpin:  Recursos usados ​​
 * PHP
